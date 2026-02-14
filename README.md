@@ -172,3 +172,5 @@ Versao atual: **1.0.0**
 ## Autores
 
 * **Desenvolvedor** - *Desenvolvimento completo* - (https://github.com/RichardsLucas)
+
+* **Projeto de Faculdade Desenvolvido no 2° semestre**

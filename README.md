@@ -1,7 +1,7 @@
 # Controle de Atividades - Sistema de Extensao Academica
 
 <p align="center">
-  <img src="img/Redame.png" alt="Logo Extensao Academica" width="200" heigth="200">
+  <img src="img/Redame.png" alt="Logo Extensao Academica" width="400" >
 </p>
 
 <p align="center">

@@ -1,7 +1,7 @@
 # Controle de Atividades - Sistema de Extensao Academica
 
 <p align="center">
-  <img src="img/Redame.png" alt="Logo Extensao Academica" width="200">
+  <img src="img/Redame.png" alt="Logo Extensao Academica" width="200" heigth="200">
 </p>
 
 <p align="center">
@@ -171,4 +171,4 @@ Versao atual: **1.0.0**
 
 ## Autores
 
-* **Desenvolvedor** - *Desenvolvimento completo* - [seu-usuario](https://github.com/RichardsLucas)
+* **Desenvolvedor** - *Desenvolvimento completo* - (https://github.com/RichardsLucas)
